@@ -1,4 +1,4 @@
-# Bookwave
+# BookWave
 
 Advanced Software Development - Group 9  
 Online Bookstore System
@@ -66,7 +66,7 @@ Online Bookstore System
 
 The repository is organized as follows:
 ```
-AdvSoftwareDev_Bookstore
+bookwave-web-app
 ├── online-bookstore-app
 │   ├── src
 │   │   ├── main
@@ -88,7 +88,7 @@ AdvSoftwareDev_Bookstore
 
 ### Explanation of the Structure
 
-- **AdvSoftwareDev_Bookstore**: The root folder of the project containing all necessary files and folders.
+- **bookwave-web-app**: The root folder of the project containing all necessary files and folders.
 - **online-bookstore-app**: The main application directory that contains the source code and resources for the online bookstore system.
   - **src**: Contains the source code for the application.
     - **main**: Main source set where the application code resides.
