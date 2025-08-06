@@ -3,9 +3,18 @@
 Advanced Software Development - Group 9  
 Online Bookstore System
 
-## Project Screenshot
+## Project Screenshot(s)
 
 ![Homepage Screenshot](online-bookstore-app/src/main/webapp/images/homepage-screenshot.png)
+
+![Register Screenshot]<img width="583" height="1021" alt="image" src="https://github.com/user-attachments/assets/04e14f2d-e470-4704-b4c0-ef71699a7940" />
+
+<img width="1488" height="1207" alt="image" src="https://github.com/user-attachments/assets/30149179-4783-4354-ab27-9f30c3e6d9b3" />
+
+<img width="1579" height="805" alt="image" src="https://github.com/user-attachments/assets/6f974f42-502b-458f-b49f-17e73858386a" />
+
+<img width="1518" height="1032" alt="image" src="https://github.com/user-attachments/assets/6f9b041c-02ea-431c-8f42-0b1e96179c2a" />
+
 
 **GitHub Repository**: https://github.com/nixonboros/bookwave-web-app
 
