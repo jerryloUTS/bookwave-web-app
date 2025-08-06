@@ -9,11 +9,11 @@ Online Bookstore System
 **Book Sections**
 <p align="center"> <img width="714" height="604" alt="image" src="https://github.com/user-attachments/assets/30149179-4783-4354-ab27-9f30c3e6d9b3" /> </p>
 
-<p align="center"> <img width="857" height="760" alt="image" src="https://github.com/user-attachments/assets/e8a18fe7-3574-4128-9479-e7a207435ba4" /> </p>
-
 <p align="center"> <img width="732" height="728" alt="image" src="https://github.com/user-attachments/assets/59d85c22-4272-490c-ad27-6e260b2c8a61" /> </p>
 
 <p align="center"> <img width="794" height="606" alt="image" src="https://github.com/user-attachments/assets/bc510a14-a9bd-43a1-9e50-94df6c82704b" /> </p>
+
+<p align="center"> <img width="1151" height="570" alt="image" src="https://github.com/user-attachments/assets/a5a31db9-5950-42b6-bbf8-4d9b65c6c430" /> </p>
 
 
   
