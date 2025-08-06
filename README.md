@@ -13,7 +13,7 @@ Online Bookstore System
 
 <p align="center"> <img width="750" height="404" alt="image" src="https://github.com/user-attachments/assets/6f974f42-502b-458f-b49f-17e73858386a" /> </p>
 
-<p align="center"> <img width="760" height="416" alt="image" src="https://github.com/user-attachments/assets/6f9b041c-02ea-431c-8f42-0b1e96179c2a" /> </p>
+<p align="center"> <img width="750" height="416" alt="image" src="https://github.com/user-attachments/assets/6f9b041c-02ea-431c-8f42-0b1e96179c2a" /> </p>
 
 
 **GitHub Repository**: https://github.com/nixonboros/bookwave-web-app
