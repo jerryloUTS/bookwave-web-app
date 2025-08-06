@@ -7,7 +7,7 @@ Online Bookstore System
 
 ![Homepage Screenshot](online-bookstore-app/src/main/webapp/images/homepage-screenshot.png)
 
-<img width="583" height="1021" alt="image" src="https://github.com/user-attachments/assets/04e14f2d-e470-4704-b4c0-ef71699a7940" />
+<p align="center"> <img width="583" height="1021" alt="image" src="https://github.com/user-attachments/assets/04e14f2d-e470-4704-b4c0-ef71699a7940" /> </p>
 
 <img width="744" height="604" alt="image" src="https://github.com/user-attachments/assets/30149179-4783-4354-ab27-9f30c3e6d9b3" />
 
