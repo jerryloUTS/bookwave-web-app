@@ -9,7 +9,7 @@ Online Bookstore System
 
 <p align="center"> <img width="583" height="1021" alt="image" src="https://github.com/user-attachments/assets/04e14f2d-e470-4704-b4c0-ef71699a7940" /> </p>
 
-<p align="center"> <img width="357" height="302" alt="image" src="https://github.com/user-attachments/assets/30149179-4783-4354-ab27-9f30c3e6d9b3" /> </p>
+<p align="center"> <img width="714" height="604" alt="image" src="https://github.com/user-attachments/assets/30149179-4783-4354-ab27-9f30c3e6d9b3" /> </p>
 
 <p align="center"> <img width="750" height="404" alt="image" src="https://github.com/user-attachments/assets/6f974f42-502b-458f-b49f-17e73858386a" /> </p>
 
