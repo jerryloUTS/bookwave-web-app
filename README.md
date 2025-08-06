@@ -9,11 +9,11 @@ Online Bookstore System
 
 <p align="center"> <img width="583" height="1021" alt="image" src="https://github.com/user-attachments/assets/04e14f2d-e470-4704-b4c0-ef71699a7940" /> </p>
 
-<p align="center"> <img width="744" height="604" alt="image" src="https://github.com/user-attachments/assets/30149179-4783-4354-ab27-9f30c3e6d9b3" /> </p>
+<p align="center"> <img width="357" height="302" alt="image" src="https://github.com/user-attachments/assets/30149179-4783-4354-ab27-9f30c3e6d9b3" /> </p>
 
-<p align="center"> <img width="790" height="403" alt="image" src="https://github.com/user-attachments/assets/6f974f42-502b-458f-b49f-17e73858386a" /> </p>
+<p align="center"> <img width="375" height="202" alt="image" src="https://github.com/user-attachments/assets/6f974f42-502b-458f-b49f-17e73858386a" /> </p>
 
-<p align="center"> <img width="759" height="516" alt="image" src="https://github.com/user-attachments/assets/6f9b041c-02ea-431c-8f42-0b1e96179c2a" /> </p>
+<p align="center"> <img width="380" height="208" alt="image" src="https://github.com/user-attachments/assets/6f9b041c-02ea-431c-8f42-0b1e96179c2a" /> </p>
 
 
 **GitHub Repository**: https://github.com/nixonboros/bookwave-web-app
