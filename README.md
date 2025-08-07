@@ -3,6 +3,8 @@
 Advanced Software Development - Group 9  
 Online Bookstore System
 
+This online bookstore -- named "BookWave" -- was developed as part of a group project for the Advanced Software Development subject (Subject Code 41026) during my final year at UTS. This website was developed in HTML/CSS and Java, allowing users to browse BookWave's catalogue and purchase the books they desire, in whatever quantity. Each purchase is then processed into the "Orders" tab, letting the user view their order history. I was personally responsible for the login and register pages (for both regular users and administrators); catalogue page; and the addition, manipulation, and deletion functions of users, administrators and books. This further reinforced my understanding of Object-Oriented Programming and, additionally, taught me the basics of DevOps and the associated functions (user stories, pipelines, unit tests and deployment.)
+
 ## Project Screenshot(s)
 
 ![Homepage Screenshot](online-bookstore-app/src/main/webapp/images/homepage-screenshot.png)
